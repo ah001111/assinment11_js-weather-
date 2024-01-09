@@ -1,0 +1,1 @@
+https://api.weatherapi.com/v1/forecast.json?key=78e9c9097d75418082064938240801&q=07112&days=3
